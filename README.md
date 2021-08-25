@@ -15,7 +15,7 @@ pip install -e .
 ```
 
 ## Training
-- To run the training execute `run_train.py`
+- To run the training execute `run_train.py` within the seac directory.
 
 - Within run_train you can set
 `env_name = "gym_boxworld:BoxWorldMA-v0"`
